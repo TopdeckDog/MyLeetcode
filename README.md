@@ -13,3 +13,4 @@ solutions:题目汇总
 - [0548.将数组分割成和相等的子数组](./solutions/Algorithm/divide/split_array_with_equal_sum.java)
 - [0634.寻找数组的错位排列](./solutions/Algorithm/dp/find_the_derangement_of_an_array.java)
 - [0666.路径和iv](./solutions/DataStructure/tree/path_sum_iv.java)
+- [1102.得分最高的路径](./solutions/Algorithm/DFSBFS/path_with_maximum_minimum_value.java)
